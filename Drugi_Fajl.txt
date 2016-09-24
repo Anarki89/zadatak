@@ -1,2 +1,2 @@
 Pozdrav iz drugog fajla!
-... iz master grane!
+... iz moje nove grane!
